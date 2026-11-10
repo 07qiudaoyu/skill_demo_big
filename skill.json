@@ -8,5 +8,5 @@
   "tags": ["python", "api"],
   "agents": ["python"],
   "dependencies": ["requests"],
-  "minCliVersion": "0.1.0"
+  "minCliVersion": "0.2.0"
 }
